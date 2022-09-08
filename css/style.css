@@ -1,0 +1,15 @@
+.slider-img {
+    height: 500px;
+}
+
+@media screen and (max-width:420px) {
+    .phone-responsive {
+        display: none;
+    }
+}
+
+@media screen and (max-width:420px) {
+    .phone-responsive-img {
+        width: 100%;
+    }
+}
